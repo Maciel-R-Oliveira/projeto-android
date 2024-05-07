@@ -72,10 +72,11 @@ nav {
     
 }
 
-@media (max-width: 450px){
+@media (max-width: 440px){
     nav {
         padding-right: 0;
         font-size: 14px;
+        padding-right: 0;
     }
 }
 
